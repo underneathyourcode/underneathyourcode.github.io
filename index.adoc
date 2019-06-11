@@ -1,0 +1,14 @@
+= Underneath your Code
+:showtitle:
+:page-title: Underneath your Code
+:page-description: A better description is really needed here...
+
+You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
+
+=== Reference documentation
+
+The following links will help with detailed explanations on Jekyll and AsciiDoc.
+
+* http://jekyllrb.com[Jekyll]
+* http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Quick Reference]
+* http://asciidoctor.org[Asciidoctor]
